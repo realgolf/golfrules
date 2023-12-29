@@ -12,7 +12,7 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/adapter-auto": "^3.0.1",
 		"@sveltejs/kit": "^2.0.6",
 		"@types/he": "^1.2.3",
 		"@types/markdown-it": "^13.0.7",
@@ -24,7 +24,7 @@
 		"svelte-check": "^3.6.2",
 		"tslib": "^2.4.1",
 		"typescript": "^5.3.3",
-		"vite": "^4.4.2"
+		"vite": "^5.0.0"
 	},
 	"type": "module",
 	"dependencies": {
