@@ -34,6 +34,6 @@
 		"markdown-it": "^14.0.0",
 		"mathjax": "^3.2.2",
 		"shiki": "^0.14.7",
-		"svelte-fa": "^3.0.4"
+		"svelte-fa": "^4.0.1"
 	}
 }
