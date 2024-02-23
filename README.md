@@ -1,19 +1,19 @@
 # Offizielles Golfregelwerk des DGV's
 
-**This Site is in German, all Documentation about this Site are still avaible in English**
+**This site is in German; all documentation about this site is still available in English.**
 
-This Repüository contains the official Golf rules form teh DGV (Deutscher Golf Verband)
+This repository contains the official Golf rules from the DGV (Deutscher Golf Verband).
 
-**You are highly invited to contribute to this site**
+**You are strongly encouraged to contribute to this site.**
 
-You can visit the golf rules under following Domain:
+You can visit the golf rules at the following URL:
 
 [Offizielles Golf Regelwerk](https://rules.golf.moinjulian.com)
 
 ## License
 
-These Golf Rules are Licensend under the [MIT](LICENSE.md) License
+These Golf Rules are licensed under the [MIT](LICENSE.md) License.
 
 ## Contributing Guide
 
-Please follow our [Contributing Guidlines](CONTRIBUTING.md) when Contributing to this project.
+Please follow our [Contributing Guidelines](CONTRIBUTING.md) when contributing to this project.
